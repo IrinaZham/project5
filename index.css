@@ -1,0 +1,96 @@
+body {
+    font-family: 'Raleway', Georgia;
+    width: 1400px;
+    margin: 0 auto;
+    background-color: #f5f5f5f5;
+
+}
+
+h1 {
+    margin-bottom: 30px;
+    font-family: Manrope;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    width: 956px;
+    letter-spacing: -1.8px;
+    color: #121212;
+}
+
+.img-text {
+
+    /*color: #FFF;*/
+   /* background-image: url("../1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1150px;
+    height: 500px;*/
+
+}
+
+.text-wrapper {
+    width: 470px;
+    position: relative;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    color: white;
+}
+.text1{
+    position: absolute;
+    left:40px;
+    bottom:40px;
+}
+
+.text2 {
+    margin-top: 150px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    text-transform: uppercase;
+}
+
+.text3 {
+    margin-top: 30px;
+    width: 1048px;
+    font-family: Manrope;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.35px;
+    
+}
+
+a {
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    display: block;
+    width: 175px;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    background-color: rgb(99, 10, 10);
+    color: white;
+    cursor: pointer;
+
+
+}
+
+a:hover {
+    background-color: #4F4F4F;
+
+}
